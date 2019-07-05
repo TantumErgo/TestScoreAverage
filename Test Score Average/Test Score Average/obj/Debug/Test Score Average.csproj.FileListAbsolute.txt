@@ -1,0 +1,9 @@
+c:\users\nik\documents\visual studio 2015\Projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+c:\users\nik\documents\visual studio 2015\Projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+c:\users\nik\documents\visual studio 2015\Projects\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+c:\users\nik\documents\visual studio 2015\Projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csprojResolveAssemblyReference.cache
+c:\users\nik\documents\visual studio 2015\Projects\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+c:\users\nik\documents\visual studio 2015\Projects\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Properties.Resources.resources
+c:\users\nik\documents\visual studio 2015\Projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.csproj.GenerateResource.Cache
+c:\users\nik\documents\visual studio 2015\Projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+c:\users\nik\documents\visual studio 2015\Projects\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
